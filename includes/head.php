@@ -9,6 +9,7 @@
     <title>Noreste System</title>
 
     <!-- Bootstrap Core CSS -->
+    <link rel="icon" href="img/logo_solo.ico" type="image/x-icon">
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
